@@ -1,0 +1,4 @@
+kurigram==2.1.35
+motor==3.6.0
+httpx==0.28.1
+pymongo==4.10.1

@@ -1,0 +1,12 @@
+WAITING_AMOUNT = "waiting_amount"
+WAITING_PROOF = "waiting_proof"
+
+OWNER_ENTER_USD = "enter_usd"
+OWNER_ENTER_INR = "enter_inr"
+OWNER_SET_RATE = "set_usd_rate"
+OWNER_SET_WELCOME = "set_welcome"
+OWNER_ADD_BAL_AMT = "user_add_bal_amt"
+OWNER_REM_BAL_AMT = "user_rem_bal_amt"
+OWNER_BROADCAST = "broadcast_msg"
+OWNER_SET_UPI = "set_upi_id"
+OWNER_SET_SUPPORT = "set_support_username"
